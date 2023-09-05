@@ -17,3 +17,4 @@ Jira, qase.io, Chrome DevTools, Postman, Swagger, SoapUI, JMeter, Mockoon,  Post
 Контактная информация:
 
 Email: rozealena1991@gmail.com
+
