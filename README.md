@@ -1,35 +1,18 @@
 Портфолио: Инженер по тестированию
-
-Обо мне
-
-Привет! Меня зовут Алёна, я начинающий тестировщик.
-В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
-
-Навыки и технологии:
-
-Jira, qase.io, Chrome DevTools, Postman, Swagger, SoapUI, JMeter, Mockoon,  PostgreSQL.
-
-Проекты:
-
-
-
-
-Контактная информация:
-
-Email: rozealena1991@gmail.com
+: rozealena1991@gmail.com
 
 
  Портфолио: инженер по тестированию
 
 ## Обо мне 
 
-Привет! Меня зовут ``{name}``, я начинающий тестировщик. <br>
+Привет! Меня зовут Алёна, я начинающий тестировщик. <br>
 В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
 <br>
 
 ## Навыки и технологии
-``Jira``,``qase.io``,``SQL``,`` Postman``,``Fiddler``, ``Swagger``, ``Trello``, <br>
-``SoapUI``, ``Android Studio``, ``xCode``, ``Charles``, ``Git``, ``Chrome DevTools``.
+``Jira``,``qase.io``,``Chrome DevTools``,`` Postman``,``Swagger``, ``SoapUI``, ``JMeter``, <br>
+``Mockoon``, ``PostgreSQL``.
 
 
 
@@ -80,6 +63,4 @@ Email: rozealena1991@gmail.com
 
 
 ## Контактная информация
-- Email: name@email.com
-- LinkedIn: https://www.linkedin.com/in/username/
-- Личный сайт: https://www.username.com
+- Email: rozealena1991@gmail.com
