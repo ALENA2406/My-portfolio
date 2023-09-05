@@ -6,6 +6,7 @@
 В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
 
 Навыки и технологии:
+
 Jira, qase.io, Chrome DevTools, Postman, Swagger, SoapUI, JMeter, Mockoon,  PostgreSQL.
 
 Проекты:
@@ -14,4 +15,5 @@ Jira, qase.io, Chrome DevTools, Postman, Swagger, SoapUI, JMeter, Mockoon,  Post
 
 
 Контактная информация:
+
 Email: rozealena1991@gmail.com
