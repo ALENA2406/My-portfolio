@@ -62,8 +62,10 @@
   <li>При отправке невалидного запроса был обнаружен баг на стороне back-end (возвращался ответ с созданным событием).</li>
 </ol>
 
+
 <p> Проект 3: запросы SQL </p>
->  <a href="https://drive.google.com/file/d/1g1X3GKcpdzGZQFE9iae6RWfNoczj0miO/view?usp=sharing">Ссылка на проект</a>
+> <a href="https://drive.google.com/file/d/1g1X3GKcpdzGZQFE9iae6RWfNoczj0miO/view?usp=sharing">Ссылка на проект</a>
+
 
 ## Контактная информация
 - Email: rozealena1991@gmail.com
