@@ -25,10 +25,10 @@
   <li>написать отчет о результатах тестирования</li>
 </ol>
 
-<a href="https://skyproalena.atlassian.net/wiki/spaces/1/pages/1310948/-+1+2">Ссылка на проект</a>
-<a href="https://skyproalena.atlassian.net/wiki/spaces/1/pages/1671235/1+2">Ссылка на проект</a>
-<p> логин: smirnovaalena@icloud.com </p>
-<p> пароль: 3Gp3gp3gp </p>
+> <a href="https://skyproalena.atlassian.net/wiki/spaces/1/pages/1310948/-+1+2">Ссылка на проект</a>
+> <a href="https://skyproalena.atlassian.net/wiki/spaces/1/pages/1671235/1+2">Ссылка на проект</a>
+> <p> логин: smirnovaalena@icloud.com </p>
+> <p> пароль: 3Gp3gp3gp </p>
 
  <p>Выводы:<p>
 <ol>
@@ -62,10 +62,11 @@
   <li>При отправке невалидного запроса был обнаружен баг на стороне back-end (возвращался ответ с созданным событием).</li>
 </ol>
 
-
+<br> 
 
 <p> Проект 3: запросы SQL </p>
-<a href="https://drive.google.com/file/d/1g1X3GKcpdzGZQFE9iae6RWfNoczj0miO/view?usp=sharing">Ссылка на проект</a>
+
+> <a href="https://drive.google.com/file/d/1g1X3GKcpdzGZQFE9iae6RWfNoczj0miO/view?usp=sharing">Ссылка на проект</a>
 
 
 
