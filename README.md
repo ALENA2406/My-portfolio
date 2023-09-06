@@ -60,7 +60,7 @@
 
 <br> 
 
-<p> Проект 3: запросы SQL </p>
+<p> Проект 3: создание запросов SQL </p>
 
 > <a href="https://drive.google.com/file/d/1g1X3GKcpdzGZQFE9iae6RWfNoczj0miO/view?usp=sharing">Ссылка на проект</a>
 
