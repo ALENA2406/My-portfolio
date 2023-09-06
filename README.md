@@ -62,6 +62,8 @@
   <li>При отправке невалидного запроса был обнаружен баг на стороне back-end (возвращался ответ с созданным событием).</li>
 </ol>
 
+https://drive.google.com/file/d/1g1X3GKcpdzGZQFE9iae6RWfNoczj0miO/view?usp=sharing
+
 
 ## Контактная информация
 - Email: rozealena1991@gmail.com
