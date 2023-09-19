@@ -58,7 +58,7 @@
 
 <p> Проект 3: создание запросов SQL </p>
 
-> <a href="https://drive.google.com/file/d/1g1X3GKcpdzGZQFE9iae6RWfNoczj0miO/view?usp=sharing">Ссылка на проект</a>
+> <a href="https://drive.google.com/file/d/1IkyBIc56a7ETsNo1cQxbKac8IM2azFin/view?usp=sharing">Ссылка на проект</a>
 
 <br> 
 
