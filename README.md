@@ -43,11 +43,7 @@
   <li>дополнить отчет о результатах тестирования API</li>
 </ol>
 
-> <a href="https://skyproalena.atlassian.net/wiki/spaces/1/pages/1310948/-+1+2">Ссылка на проект</a>
-> <br>
-> (Если вам интересна моя кандидатура, логины и пароли от систем у меня, направлю по запросу.)
-> <p> логин: smirnovaalena@icloud.com </p>
-> <p> пароль: 3Gp3gp3gp </p>
+> <a href="https://github.com/ALENA2406/My-portfolio/tree/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%202">Ссылка на проект</a>
  
  <p>Выводы:<p>
 <ol>
