@@ -9,7 +9,7 @@
 
 ## Навыки и технологии
 ``Jira``,``qase.io``,``Chrome DevTools``,`` Postman``,``Swagger``, ``SoapUI``, ``JMeter``, <br>
-``Mockoon``, ``PostgreSQL``.
+``Mockoon``, ``PostgreSQL``, ``Android studio``, ``Charles``.
 
 ## Проекты
 <p> Проект 1: "Тестирование личного кабинета для учителей Skyeng с помощью GUI"</p>
