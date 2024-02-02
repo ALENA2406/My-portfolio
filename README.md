@@ -12,7 +12,7 @@
 ``Mockoon``, ``PostgreSQL``, ``Android studio``, ``Charles``.
 
 ## Проекты
-<p> Проект 2: "Тестирование личного кабинета учителя Skyeng, раздел "Личные события."</p>
+<p> Проект 1: "Тестирование личного кабинета учителя Skyeng, раздел "Личные события."</p>
 
 > <a href="https://github.com/ALENA2406/My-portfolio/tree/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%201">Ссылка на проект</a>
 
