@@ -148,4 +148,4 @@
 <br> 
 
 ## Контактная информация
-- Email: rozealena1991@gmail.com
+- Telegram: @RozeAlena
